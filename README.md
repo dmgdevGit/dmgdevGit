@@ -5,4 +5,4 @@
 
 ## <img src="https://github-readme-stats.vercel.app/api?username=dmgdevGit&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="dmgdevGit's GitHub Stats" /> 
 ![UnrealEngine](https://github.com/user-attachments/assets/83cc043f-1b02-4a93-98fd-965f623c4fa6)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dmgdevGit)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dmgdevGit&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
